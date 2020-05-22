@@ -1,13 +1,12 @@
 ## **Parseltongue**
 This module contains set of grammars which can be used write programs in Python 3.x.
 
-<<<<<<< HEAD
 **Version 0.1.0 features:**
 - Added commands for I/O operations
 - Added commands for arithmetic and assignment operations
 - Added commands for type casting
 - Added commands to save and run python programs
-=======
+
 This module was specifically written for Parseltongue Editor (download [here](http://www.parseltongue.ml "here")) by it can also be used with any text editor.
 
 To write Python programs using voice with Parseltongue commands you will need the following:
@@ -23,4 +22,5 @@ To write Python programs using voice with Parseltongue commands you will need th
 Parseltongue Bundle contains all the specified programs mentioned above.
 
 Parseltongue Editor and Parseltongue Bundle can be download from our official website: http://www.parseltongue.ml
->>>>>>> Added new dictionaries, Updated module version, Changed README.md
+
+**Parseltongue Documentation:** [View](https://drive.google.com/open?id=1EQEOo6oGg50Y8SWgV1YOs9Or8Kjli32K "View")
