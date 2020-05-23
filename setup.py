@@ -8,7 +8,7 @@ def readme():
 
 setup(
     name="parseltongue",
-    version="0.2.0",
+    version="0.3.0",
     description="List of dragonfly grammars to write programs in python",
     long_description=readme(),
     long_description_content_type="text/markdown",
@@ -20,7 +20,7 @@ setup(
         "License :: OSI Approved :: MIT License",
         "Programming Language :: Python :: 2",
     ],
-    packages=["parseltongue_grammar"],
+    packages=["parseltongue"],
     include_package_data=True,
     install_requires=["dragonfly2"],
 )
